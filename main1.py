@@ -1,8 +1,3 @@
-#!D:/Code/python
-# -*- coding: utf-8 -*-
-# @Time : 2020/8/22 12:32
-# @Author : Am0xil
-# @Description : 网易云音乐模拟
 import base64
 import binascii
 import json
